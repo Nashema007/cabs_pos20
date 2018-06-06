@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">CABS</string>
+    <string name="title_activity_drawer">CABS</string>
+    <string name="Login">Login</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="signup">Don\'t have an account? register here.</string>
+    <string name="ForgotPassword">Forgot Password?</string>
+    <string name="Cabs_Logo">Cabs_Logo</string>
+    <string name="title_activity_nav_drawer">NavDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="reset">Reset</string>
+    <string name="recoveryText">Please enter your Email address number and National ID.</string>
+    <string name ="resetText">Please input your new password.</string>
+    <string name="cnfmPass">Confirm</string>
+
+    <string name="signout">Sign out</string>
+    <string name="home">Home</string>
+    <string name="Tutorials">Tutorials</string>
+    <string name="FAQ">FAQ</string>
+    <string name="Pref">Preferences</string>
+    <string name="action_settings">Settings</string>
+    <string name="veriFone675">VeriFone 675</string>
+    <string name="Explore">Details…</string>
+    <string name="vx520Adapter">VX520 AC-DC Adapeter</string>
+    <string name="vx520_battery">VX 520 battery</string>
+    <string name="papperRoll">Paper Roll</string>
+    <string name="simCard">Sim Card</string>
+    <string name="networkCable">Network Cable</string>
+    <string name="ethernet_sim">The vx 520 comes with both the options to use GPS(usage of a sim card)</string>
+    <string name="paper">The POS Machine comes with a roll of printing paper for your connivance and if in the need for more go to you local branch or CABS central ave Harare</string>
+    <string name="batteryDescript">The vx 520 comes with a battery that is fitted at the bottom of the POS machine</string>
+    <string name="vx675base">The vx 675 comes with a base. Its recommended to charger the POS machine through this base in order to avoid a Temper due to power surge either from a generator or normal electricity flow </string>
+    <string name="Poscharger">The POS machine comes with a charger that you connect to the charger and if ever damaged please return to CABS Central avenue for a free replacement</string>
+    <string name="casing">The xv 675 comes with a casing that always you to carry it with ease if you are always on the go</string>
+    <string name="vx675_wifi_sim">The vx 675 comes in two Models Wifi and GPS(usage of a sim card)</string>
+    <string name="adapterDescript">When issued with a VeriFone VX 520 it should be accompanied by the adapter in the picture to your left.When adapter is damaged or you fear its not working anymore please bring to Cabs Central Ave for replacement.</string>
+    <string name="error_nd">This tutorial describes how to fix a \"Please try again ND\" error</string>
+    <string name="error_na">This tutorial describes how to fix a \"Please try again NA\" error</string>
+    <string name="settlement">This tutorial describes how you settle transactions on your POS machine</string>
+    <string name="error_ca">This tutorial describes how to fix a \"Please try again CA\" error</string>
+    <string name="error_batch">This tutorial describes how to fix a \"Clear Batch\" error</string>
+    <string name="error_ce">This tutorial describes how to fix a \"Please try again CE\" error</string>
+    <string name="print_error">This tutorial describes how to fix any issues you get from your printer</string>
+
+
+    <string name="Logout">Logout</string>
+    <string name="image">Image</string>
+    <string name="submit">Submit</string>
+    <string name="NationalID">National ID</string>
+    <string name="fname">First Name(s)</string>
+    <string name="LastName">Last Name</string>
+    <string name="base">Base</string>
+    <string name="carry_case">Case</string>
+    <string name="wifilogo">wifilogo</string>
+    <string name="charger">charger</string>
+    <string name="Q_charger_not_working">Q: What should I do when I see my POS machine Charger is no longer working?</string>
+    <string name="A_charger_not_working">A: Feel free to visit central avenue to get a free replacement and please avoid using chargers that were not issued by the CABS team.</string>
+    <string name="Q_Temper">Q: When my POS machine reads a message \"Security temper… Enter Password\" what should i do?</string>
+    <string name="A_Temper">A: Temper normally happens when you use your POS machine on generator current or try to access settings you are not authorised to in this event please bring it to Central Avenue CABS for replacement </string>
+    <string name="Q_why_it_freezes">Q: What causes my POS machine to freeze during use?</string>
+    <string name="A_why_it_freezes">A: It is recommended that the user of the machine settle the transactions done by the POS at the end of every day so as to free memory within the machine as it doesn\'t have a larger capacity to keep all your transaction</string>
+    <string name="Q_ecocash">Q: Can my customers pay using Ecocash on my CABS POS machine?</string>
+    <string name="A_ecocash">A: It\'s as easy as entering your clients number on the main menu and inputting the amount they are being charged and a  prompt will be received on their mobile device asking them to enter their Ecocash pin</string>
+    <string name="android_studio_com">android@studio.com</string>
+    <string name="welcome">Welcome to CABS POS machine service!</string>
+
+
+
+
+    <string name="video">http://169.254.28.11/cabs_pos/mobile/assets/videoplayback.mp4</string>
+    <string name="description">Description</string>
+</resources>
